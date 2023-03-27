@@ -1,3 +1,6 @@
-globalTypes.d.lua
+Packages/
+DevPackages/
 node_modules/
+
+globalTypes.d.lua
 sourcemap.json

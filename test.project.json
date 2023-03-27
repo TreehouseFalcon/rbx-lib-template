@@ -1,0 +1,27 @@
+{
+	"name": "Project Name (testing)",
+	"tree": {
+		"$className": "DataModel",
+
+		"ReplicatedStorage": {
+			"$className": "ReplicatedStorage",
+			"ProjectName": {
+				"$path": "src"
+			},
+			"tests": {
+				"$path": "tests"
+			},
+			"DevPackages": {
+				"$path": "DevPackages"
+			}
+		},
+
+		"StarterPlayer": {
+			"$className": "StarterPlayer",
+			"StarterPlayerScripts": {
+				"$className": "StarterPlayerScripts",
+				"$path": "test-runner"
+			}
+		}
+	}
+}
