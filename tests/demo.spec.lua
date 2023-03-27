@@ -1,5 +1,5 @@
 return function()
-	describe("main", function()
+	describe("test-region", function()
 		it("should work", function()
 			expect(true).to.be.ok()
 		end)
