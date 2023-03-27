@@ -22,6 +22,10 @@ This project also uses [Aftman](https://github.com/LPGhatguy/aftman) to handle s
 
 To install the project's library dependencies, run `wally install` in the root directory of the project.
 
+## Extensions
+
+There's some recommended extensions in `.vscode/extensions.json`. These are not required, but are recommended.
+
 ---
 
 By this point, everything should be working!
