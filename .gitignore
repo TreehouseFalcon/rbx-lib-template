@@ -2,5 +2,6 @@ Packages/
 DevPackages/
 node_modules/
 
+dumpRobloxTypes.py
 globalTypes.d.lua
 sourcemap.json
